@@ -6,13 +6,11 @@ public class NearestGreaterToRight {
         int[] result = new int[input.length];
 
 
-
-
         return result;
     }
 
     public static void main(String[] args) {
-        System.out.println(findNearestGreaterToRight(new int[]{1,3,2,4}));
+        System.out.println(findNearestGreaterToRight(new int[]{1, 3, 2, 4}));
     }
 
 }
