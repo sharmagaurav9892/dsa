@@ -25,5 +25,6 @@ public class MaxMinElementInArray {
     public static void main(String[] args) {
         System.out.println(findSum(new int[]{5, 6, 1, 9, 10}, 5));
     }
+
 }
 
